@@ -1,0 +1,44 @@
+# jemdoc: nofooter
+= Tengjiao He 
+
+~~~
+{}{img_left}{HTJ.jpg}{alt text}{144.0px}{192.0px}{}
+Tengjiao He \n
+Lecturer \n 
+College of Information Science and Technology, Jinan University \n
+Guangzhou, China \n
+Email: myname@foxmail DOT com., where myname="tengjiao.he" \n
+[https://https://scholar.google.com/citations?user=zOfRUn4AAAAJ&hl=en Google Scholar]
+~~~
+
+== About Me
+Welcome! This is the personal page of Tengjiao He.  I am currently a Lecturer at College of Information Science and Technology, Jinan University.  I graduated from University of Wollongong, Australia, with Honors.  I then obtained my Ph.D. degree under the supervision of  [https://www.uow.edu.au/~kwanwu/  A/Prof Kwan-Wu Chin].        
+== My Research Areas 
+- Internet of Things (IoTs) or sensor (actor) or UAV networks -- routing, coverage, node placement, topology control.
+- Energy harvesting (wireless powered or charging) systems -- data transmissions scheduling, and energy allocation.
+== Education 
+~~~
+- Ph.D., School of Electrical, Computer and Telecommunications Engineering, University of Wollongong, Australia, 2013 - 2017
+- B.E., School of Electrical, Computer and Telecommunications Engineering, University of Wollongong, Australia, 2011 - 2013
+- B.E., College of Information Science and Technology, Zhengzhou University, China, 2008 – 2011
+~~~
+
+== Teaching
+- Foundations of Computer Science
+- Python Programming
+== Publications 
+*Journal Papers*
+. T.J He, K-W Chin and S. Soh. On Wireless Power Transfer and Max Flow in Rechargeable Wireless Sensor Networks, IEEE Access, vol. 4, pp4155-4167, August,2016. 
+[https://ieeexplore.ieee.org/document/7539589 Full Version]
+. L.Y Wang, K-W Chin, S. Soh and T.J He. A Novel Fair Link Scheduler for Multi Tx/Rx Wireless Mesh Networks, IEEE Access, 5(1), pp10456-10468, May, 2017.
+[https://ieeexplore.ieee.org/document/7935502 Full Version]
+. T.J He, K-W Chin and S. Soh. On Maximizing Min Flow Rates Using Auxiliary Energy Units in Rechargeable WSNs, IEEE Transactions on Industrial Informatics, 14(7), pp 2962-2972, July, 2018.
+[https://ieeexplore.ieee.org/abstract/document/7539589 Full Version]
+
+* Conference Papers*
+. T.J He, K-W Chin and S. Soh. On Using Wireless Power Transfer to Increase the Max Flow of Rechargeable Wireless Sensor Networks, IEEE 10th International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP), Singapore, April, 2015.
+[https://ieeexplore.ieee.org/document/8100940 Full Version]
+. X.L. Liu, L.X. Lin, Z.R Chen, S.C. Luo, T.J. He and B.R. Du. Course Design for Personal Information Security Literature with New-Media Teaching, IEEE 13th International Conference on Computer Science & Education (ICCSE),  Colombo, Sri Lanka, Aug, 2018.
+[https://ieeexplore.ieee.org/abstract/document/8468779 Full Version]
+
+== Journals Pipeline
